@@ -1,7 +1,6 @@
 # 🚀 Bento Grid
 
 <br>
-<br>
 
 ## 📝 Description
 
