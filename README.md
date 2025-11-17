@@ -1,16 +1,16 @@
-# Bento Grid
+# 🚀 Bento Grid
 
 <br>
 
-## Description
+## 📝 Description
 
 This project is perfect for testing CSS Grid and responsive skills with this bento grid layout.
 
-## Tech Stack
+## 💻 Tech Stack
 
 -   HTML
 -   CSS
 
-## Design
+## 🎨 Design
 
 The UI/UX design was based from [FrontEndMentor](https://www.frontendmentor.io/). You can find the original design [here](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj).
