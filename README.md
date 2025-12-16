@@ -1,5 +1,7 @@
 # 🚀 Bento Grid
 
+![Preview](images/preview.jpg)
+
 <br>
 
 ## 📝 Description
